@@ -16,3 +16,12 @@ print(mat)
 df <- data.frame(a=1:3, b=4:6, c=7:9)
 
 print(df)
+
+
+define <- function(x){
+  x^2
+}
+
+defined <- class(){
+    print("hello")
+}
